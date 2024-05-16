@@ -1,2 +1,2 @@
 # DataProject1
-This is a practise for Clicked
+This is a practice for Clicked
